@@ -2,6 +2,7 @@
 Analyzed 1.4K+ employee records to build an HR Analytics Dashboard highlighting attrition trends, workforce demographics, and job-role patterns. Identified high-risk groups such as 26–35 age range, Life Sciences background, and Sales/Lab Technician role.
 
 #  HR Analytics Dashboard
+![Dashboard](https://github.com/PoojaJadhav07/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.PNG?raw=true)
 
 ## 1. Project Overview
 This HR Analytics Dashboard provides a complete view of employee strength, attrition behavior, demographic patterns, and job-role-wise insights.  
